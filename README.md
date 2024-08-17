@@ -1,8 +1,4 @@
-<div style="text-align: center;">
-  <div style="display: inline-block; font-weight: bold; font-size: 3em;">
-    <span style="color: red;">D</span>ev<span style="color: red;">O</span>ps <span style="color: red;">S</span>weden
-  </div>
-</div>
+<h1 style="text-align: center;">DevOps Sweden</h1>
 
 <p align="center">
   <img src="assets/img/banner.png" alt="Banner" width="50%"/>
